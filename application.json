@@ -18,7 +18,11 @@
   "unreadCommentThreads": 0,
   "color": "#C7F3E3",
   "icon": "moon",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "AWS_https://sdk.amazonaws.com/js/aws-sdk-2.410.0.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
